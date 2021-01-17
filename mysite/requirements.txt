@@ -6,7 +6,6 @@ certifi==2020.12.5
 chardet==3.0.4
 colorama==0.4.3
 Django==2.1.1
-djangorestframework==3.12.2
 future==0.16.0
 idna==2.10
 jmespath==0.10.0
